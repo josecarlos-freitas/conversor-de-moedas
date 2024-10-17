@@ -1,0 +1,47 @@
+body{
+    background-image:linear-gradient( #c0c0c0, rgba(255, 255, 255, 0.702), white);
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+
+form{
+color:rgb(32, 27, 27);
+padding: 10px;
+margin: 20px;
+border: solid;
+right: 50px;
+width: 200px;
+margin: auto;
+border: solid;
+box-shadow: 10px 1px 1px;
+
+
+}
+img.nota{
+    height: 50px; 
+    margin: 5px;   
+}
+
+section{
+    color:black;
+    border: solid ;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 1px 5px 5px 1px;
+    
+
+}
+.titulo{
+    color: white;
+}
+h1{
+color: white;
+padding: 10px;
+margin: 20px;
+box-shadow: 10px 1px 1px black;
+text-shadow: 1px 1px black;
+border-radius:1px 1px ;
+}
